@@ -1,5 +1,5 @@
 {
-  "name": "event-engine/php-engine",
+  "name": "zluiten/php-engine",
   "description": "CQRS / ES PHP SDK for event-engine.io",
   "homepage": "https://event-engine.io/",
   "license": "MIT",
@@ -15,6 +15,9 @@
       "homepage": "http://prooph-software.com/"
     }
   ],
+  "replace": {
+    "event-engine/php-engine": "^0.16 || dev-master"
+  },
   "require": {
     "php": "^7.3 || ^8.0",
     "event-engine/php-data": "^1.0 || ^2.0.1",

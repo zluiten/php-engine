@@ -1,3 +1,8 @@
+# zluiten / php-engine
+
+This is a fork just to release changes quicker than in the original library. Report issues and submit new features to
+the original library.
+
 # Prooph Event Engine
 
 [![Build Status](https://travis-ci.org/event-engine/php-engine.svg?branch=master)](https://travis-ci.org/event-engine/php-engine)
